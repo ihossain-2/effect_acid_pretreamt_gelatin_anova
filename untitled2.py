@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-"""acid_effect_gelatin.ipynb
-"""
+
 
 # =============================================================================
 # FULL FACTORIAL ANOVA ANALYSIS
